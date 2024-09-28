@@ -5,14 +5,14 @@
 
 - 📫 How to reach me **tejasrimadas@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14YewiB8NfXRKpFh-2wuT_FdFcF4UT7li/view?usp=drive_link](https://drive.google.com/file/d/14YewiB8NfXRKpFh-2wuT_FdFcF4UT7li/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tejasri madas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasri madas" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@tejasrimadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tejasrimadas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/tejasri-madas-012680236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/tejasri-madas-012680236" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tejasrimadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tejasrimadas" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tejasrimadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejasrimadas" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/madas tejasri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="madas tejasri" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@tejasrimadas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@tejasrimadas/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tejasrirsoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tejasrirsoh" height="30" width="40" /></a>
 </p>
 
