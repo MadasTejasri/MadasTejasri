@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tejasrimadas@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14YewiB8NfXRKpFh-2wuT_FdFcF4UT7li/view?usp=drive_link](https://drive.google.com/file/d/14YewiB8NfXRKpFh-2wuT_FdFcF4UT7li/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/14YewiB8NfXRKpFh-2wuT_FdFcF4UT7li/view?usp=drive_link](https://drive.google.com/drive/starred)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
